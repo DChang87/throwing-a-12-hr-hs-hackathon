@@ -8,14 +8,24 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 **...Guide Under Construction...**
 
 ###Index
-- [Getting Started] (#gettingstarted)
+- [Getting Started] (#getting-started)
 - [Sponsorships] (#sponsorships)
 
 ###Getting Started
-
-
+- Forming your team
+  - [Organizing Team] (team.md)
+- Figuring out what you'll need to do 
+  - [Tasks to be Completed] (tasks.md)
+- Creating a budget
+  - [Budget] (budget.md)
+- Getting help
 
 ##Sponsorships
+- Drafting a Sponsorship Prospectus
+- Who to reach out to
+- How to reach out
+  - Cold Emailing 101
+- How to pitch your event
 
 ###All Documents
 - [Organizing Team] (team.md)
