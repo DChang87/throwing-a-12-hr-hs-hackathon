@@ -6,3 +6,11 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 
 
 **...Guide Under Construction...**
+
+###Index
+- [Organizing Team] (team.md)
+- [Tasks to be Completed] (tasks.md)
+- [Budget] (budget.md)
+- [Sponsorships] (sponsorships.md)
+- [Utilizing Your Venue] (venue.md)
+- ....
