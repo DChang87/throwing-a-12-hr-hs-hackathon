@@ -10,6 +10,8 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 ###Index
 - [Getting Started] (#getting-started)
 - [Sponsorships] (#sponsorships)
+- [All Documents] (#all-documents)
+ 
 
 ###Getting Started
 - Forming your team
@@ -21,7 +23,8 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 - Getting help
 
 ##Sponsorships
-- Drafting a Sponsorship Prospectus
+- Drafting a Prospectus
+  - [Prospectus] (prospectus.md)
 - Who to reach out to
 - How to reach out
   - Cold Emailing 101
@@ -32,4 +35,5 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 - [Tasks to be Completed] (tasks.md)
 - [Budget] (budget.md)
 - [Utilizing Your Venue] (venue.md)
+- [Prospectus] (prospectus.md)
 - ....
