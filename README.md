@@ -26,9 +26,11 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 - Drafting a Prospectus
   - [Prospectus] (prospectus.md)
 - Who to reach out to
+  - [Potential Sponsors] (potential-sponsors.md)
 - How to reach out
   - Cold Emailing 101
 - How to pitch your event
+  - Pitching
 
 ###All Documents
 - [Organizing Team] (team.md)
@@ -36,4 +38,5 @@ I'll be walking through the process it took for me to organize MasseyHacks, a 12
 - [Budget] (budget.md)
 - [Utilizing Your Venue] (venue.md)
 - [Prospectus] (prospectus.md)
+- [Potential Sponsors] (potential-sponsors.md)
 - ....
